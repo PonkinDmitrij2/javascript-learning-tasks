@@ -1,5 +1,4 @@
 # javascript-learning-tasks
-----
 Solving training problems for learning JavaScript.
 
 Tasks from sites:
