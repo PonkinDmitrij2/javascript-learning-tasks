@@ -17,7 +17,7 @@
  *
  * countInversion([5, 3, 2, 1, 0]) == 10
  *
- * @param {number[]} arr - A sequence as a tuple of integers.
+ * @param {number[]} sequence - A sequence as a tuple of integers.
  * @returns {number} The inversion number as an integer.
  */
 const countInversion = (sequence) => {
